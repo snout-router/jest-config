@@ -1,10 +1,10 @@
 {
-  "name": "@packula/jest-config",
+  "name": "@snout/jest-config",
   "version": "0.0.0",
-  "description": "The Jest configuration used by Packula repositories",
-  "repository": "packula/jest-config",
-  "bugs": "https://github.com/packula/jest-config/issues",
-  "homepage": "https://packula.dev",
+  "description": "The Jest configuration used by Snout repositories",
+  "repository": "snout-router/jest-config",
+  "bugs": "https://github.com/snout-router/jest-config/issues",
+  "homepage": "https://snout.dev",
   "author": "Erin Millard <ezzatron@gmail.com>",
   "license": "MIT",
   "publishConfig": {
