@@ -1,4 +1,4 @@
-# Snout Jest configuration
+# Snout Jest Configuration
 
 [![Current version][badge-version-image]][badge-version-link]
 
