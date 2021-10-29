@@ -10,7 +10,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "type": "module",
   "main": "jest.config.js",
+  "exports": {
+    ".": "./jest.config.js"
+  },
   "files": [
     "jest.config.js"
   ],
