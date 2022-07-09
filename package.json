@@ -19,10 +19,10 @@
     "jest.config.js"
   ],
   "dependencies": {
-    "@types/jest": "^27.0.0",
-    "es-jest": "^1.4.1",
-    "jest": "^27.0.1",
-    "ts-jest": "^27.0.1"
+    "@types/jest": "^28.1.4",
+    "es-jest": "^2.0.0",
+    "jest": "^28.1.2",
+    "ts-jest": "^28.0.5"
   },
   "devDependencies": {
     "typescript": "^4.2.3"
