@@ -1,14 +1,10 @@
 export default {
-  preset: 'es-jest',
+  preset: "es-jest",
   transform: {
-    '\\.tsx?$': 'ts-jest',
+    "\\.tsx?$": "ts-jest",
   },
   transformIgnorePatterns: [],
-  collectCoverageFrom: [
-    'src/**/*',
-  ],
-  coverageDirectory: 'artifacts/coverage/jest',
-  testMatch: [
-    '**/test/unit/**/*.spec.*',
-  ],
-}
+  collectCoverageFrom: ["src/**/*"],
+  coverageDirectory: "artifacts/coverage/jest",
+  testMatch: ["**/test/unit/**/*.spec.*"],
+};

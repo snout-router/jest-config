@@ -9,5 +9,5 @@
 
 ```js
 // jest.config.js
-export {default} from '@snout/jest-config'
+export { default } from "@snout/jest-config";
 ```
