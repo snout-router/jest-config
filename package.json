@@ -19,7 +19,7 @@
     "jest.config.js"
   ],
   "dependencies": {
-    "@types/jest": "^28.1.4",
+    "@types/jest": "^29.0.3",
     "es-jest": "^2.0.0",
     "jest": "^28.1.2",
     "ts-jest": "^28.0.5"
