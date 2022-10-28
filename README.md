@@ -14,3 +14,8 @@
 // jest.config.js
 export { default } from "@snout/jest-config";
 ```
+
+```makefile
+# Makefile
+export NODE_OPTIONS := --experimental-vm-modules --redirect-warnings=artifacts/node-warnings
+```

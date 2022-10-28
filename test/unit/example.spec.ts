@@ -1,3 +1,5 @@
-it("should have a single test for CI to pass", () => {
-  expect(true).toBe(true);
+import { foo } from "../fixture/module.js";
+
+it("should resolve ECMAScript modules", () => {
+  expect(foo).toBe("foo");
 });
