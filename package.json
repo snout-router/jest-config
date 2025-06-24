@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "@swc/jest": "^0.2.29",
-    "@types/jest": "^29.2.0",
+    "@types/jest": "^30.0.0",
     "jest": "^30.0.0"
   },
   "devDependencies": {
